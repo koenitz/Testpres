@@ -28,7 +28,7 @@ Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br><b
 Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
 ---
 # <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
-
+![Image](https://cdn.pixabay.com/photo/2017/04/12/08/58/brushes-2224005_1280.jpg)
 +++
 ## <span style="color:gray; font-size:0.6em;">[ VOSviewer ]</span>
 ***
