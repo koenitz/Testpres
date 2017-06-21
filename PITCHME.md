@@ -1,7 +1,7 @@
 
 <!-- .slide: data-autoslide="10000" -->
 
-#### <span style="color: #f2cf4a; font-family: brandon;">MarkDown für alles</span>
+#### <span style="font-family: brandon;"><i>MarkDown für alles</i></span>
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
 <br>
