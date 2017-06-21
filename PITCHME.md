@@ -41,7 +41,7 @@ Partizipation im Etherpad war jedoch sehr gut (thx insb. @m_andrasch) und erkenn
 # <span style="color:gray;  font-size:0.6em;">[ TOOLS ]</span>
 ![Image](./brushes.jpg)
 +++
-## <span style="color: #e49436">[ VOSviewer ]</span>
+## <span style="color: #e49436">VOSviewer</span>
 ***
 <br>
 Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br><br>
@@ -50,14 +50,14 @@ Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br>
 ####(thx @sozmethode)
 
 +++
-## <span style="color:gray;">[ GitBook und GitPitch ]</span>
+## <span style="color:gray;">GitBook und GitPitch</span>
 ***
 <br>
 Produktive Szenarios für Text und Präsentationsdokumente (thx @xldrkp von der TUHH).<br><br>
 <span style="color: #e49436">Plädoyer für das Experimentieren</span> und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien.
 
 +++
-## <span style="color:gray;">[ Print hat auch noch eine Zukunft ]</span>
+## <span style="color:gray;"><span style="color: #e49436">Print</span> hat auch noch eine Zukunft</span>
 ***
 Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine OER-Weiterbildung (thx @[Alexander Schnücker](http://hd.uni-siegen.de/oerhd/?lang=de) ).
 ![Image](./oerpostkarten.jpg)
@@ -69,19 +69,16 @@ Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine
 Was mir noch so auf- und eingefallen ist.
 
 +++
-## <span style="color:gray;">[ Vages ]</span>
+## <span style="color:gray;">Vages</span>
 ***
 <br>
 ~QPL ist allgegenwärtig.~ <b>Die <span style="color: #e49436">Blockchain</span> ist allgegenwärtig.</b> <br><br> Zukunft ungewiss.
 
 +++
-## <span style="color:gray;">[ Open Science ]</span>
+## <span style="color:gray;"><span style="color: #e49436">Open</span> Science</span>
 ***
 <br>
 <span style="color: #e49436">Digital Methods</span> müssen vor dem Hintergrund von Open Science sowie forschungsethischer Standpunkte betrachtet werden.
-
-+++
-
 
 ---
 
