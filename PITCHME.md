@@ -46,8 +46,8 @@ Partizipation im Etherpad war jedoch sehr gut (thx insb. @m_andrasch) und erkenn
 <br>
 Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br><br>
 <span style="font-size:1em; color:gray">Cluster</span> |
-<span style="font-size:1em; color:gray">Heatmaps</span><br>
-####(thx @sozmethode)
+<span style="font-size:1em; color:gray">Heatmaps</span><br><br>
+(thx @sozmethode)
 
 +++
 ## <span style="color:gray;">GitBook und GitPitch</span>
