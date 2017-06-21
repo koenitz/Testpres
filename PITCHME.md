@@ -26,6 +26,11 @@ Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br><b
 ## <span style="color: #e49436">Flipped Classroom</span> ist noch nicht so richtig angekommen
 ![Image](./JFMH17.jpg)
 Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
+
++++
+Partizipation im Etherpad war jedoch sehr gut (thx @m_andrasch) und erkenntnisreich.
+[Link](https://pad.hs-wismar.de/p/jfmh17)
+
 ---
 # <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
 ![Image](./brushes.jpg)
@@ -54,6 +59,9 @@ Noch spannender: Postkartenformat für allgemeine Weiterbildung.
 ***
 <br>
 QPL ist allgegenwärtig.
+
++++
+
 
 ---
 
