@@ -17,10 +17,10 @@
 ## <span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
 
 +++
-### OER sind ein ambivalentes Thema
+### <span style="color: #e49436">OER</span> sind ein ambivalentes Thema
 
 +++
-### Flipped Classroom ist noch nicht so richtig angekommen
+### <span style="color: #e49436">Flipped Classroom</span> ist noch nicht so richtig angekommen
 
 ---
 ## <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
