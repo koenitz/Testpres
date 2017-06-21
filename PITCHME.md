@@ -4,7 +4,7 @@
 
 +++
 Das war btw. meine Ausgangslage:
-![Cartoon](https://fms1.rrz.uni-hamburg.de/videorep/vh_007/uvja016/8HERTxUbQDjVIzUQvo1mYwxx.mp4)
+![video](https://fms1.rrz.uni-hamburg.de/videorep/vh_007/uvja016/8HERTxUbQDjVIzUQvo1mYwxx.mp4)
 
 Insofern war ich gespannt, welche Impulse entstehen würden. Und ich wurde <span style="color: #e49436">positiv</span> überrascht.
 ---
