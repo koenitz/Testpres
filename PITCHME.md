@@ -6,6 +6,7 @@
 <br>
 <span style="color:gray">GitHub, GitLab and Bitbucket</span>
 :smile:
+
 ---
 <span style="color: #f2cf4a; font-family: brandon;">Welch inspirierende Worte!</span>
 <br>
