@@ -83,4 +83,4 @@ Was mir noch so auf- und eingefallen ist.
 
 ---
 
-# <span style="color: #e49436">ENDE DER VORSTELLUNG</span>
+# <span style="color: #e49436">ENDE</span> DER VORSTELLUNG
