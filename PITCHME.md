@@ -1,6 +1,6 @@
 # JFMH 2017
 <br>
-<span style="color:gray">Ein Kurzbericht</span>
+<span style="color:gray">Eine Kurzdarstellung</span>
 
 ---
 
@@ -23,13 +23,19 @@ Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br><b
 <span style="font-size:1em; color:gray">OER als Mindset</span>
 
 +++
+## <span style="color: #e49436">OEP</span> als diskursives Feld.
+***
+<br>
+Spannender Workshop von @danderlan und @franziskalinke, in dem ich wieder gemerkt habe, wie viel Spaß es macht Forschungsgegenstände zu rekonstruieren. In diesem Fall über Tweets die OEP thematisieren.
+
++++
 ## <span style="color: #e49436">Flipped Classroom</span> ist noch nicht so richtig angekommen
 ![Image](./JFMH17.jpg)
 Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
 
 +++
-Partizipation im Etherpad war jedoch sehr gut (thx @m_andrasch) und erkenntnisreich.
-[Link zum Etherpad: ](https://pad.hs-wismar.de/p/jfmh17)
+Partizipation im Etherpad war jedoch sehr gut (thx insb. @m_andrasch) und erkenntnisreich.<br>
+####[Link zum Etherpad](https://pad.hs-wismar.de/p/jfmh17).
 
 ---
 # <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
@@ -48,7 +54,7 @@ Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br>
 ***
 <br>
 Produktive Szenarios für Text und Präsentationsdokumente (thx @xldrkp von der TUHH).<br><br>
-Plädoyer für das Experimentieren und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien.
+<span style="color: #e49436">Plädoyer für das Experimentieren</span> und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien.
 
 +++
 ## <span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
@@ -59,8 +65,14 @@ Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine
 ---
 # <span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
 ***
-<br>
-QPL ist allgegenwärtig.
+
+Was mir noch so auf- und eingefallen ist.
+
++++
+~QPL ist allgegenwärtig.~ Die <span style="color: #e49436">Blockchain</span> ist allgenenwärtig. <br><br> Zukunft ungewiss.
+
++++
+<span style="color: #e49436">Digital Methods</span> müssen vor dem Hintergrund von Open Science sowie forschungsethischer Standpunkte betrachtet werden.
 
 +++
 
