@@ -2,6 +2,11 @@
 <br>
 <span style="color:gray">Eine indivduelle Kurzdarstellung von @koenitz</span>
 
++++
+Das war btw. meine Ausgangslage:
+![Video](https://fms1.rrz.uni-hamburg.de/videorep/vh_007/uvja016/8HERTxUbQDjVIzUQvo1mYwxx.mp4)
+
+Insofern war ich gespannt, welche Impulse entstehen würden. Und ich wurde <span style="color: #e49436">positiv</span> überrascht.
 ---
 
 ## <span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
