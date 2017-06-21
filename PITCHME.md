@@ -22,9 +22,8 @@ Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br>
 
 +++
 ### <span style="color: #e49436">Flipped Classroom</span> ist noch nicht so richtig angekommen
-Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
 ![Image](./JFMH17.jpg)
-
+Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
 ---
 ## <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
 
