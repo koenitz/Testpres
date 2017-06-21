@@ -7,6 +7,9 @@
 <span style="color:gray">GitHub, GitLab and Bitbucket</span>
 
 ---
+<!-- background: #6f6f6f -->
+<!-- color: #fff -->
+<!-- font: univers -->
 <span style="color: #f2cf4a; font-family: brandon;">Welch inspirierende Worte!</span>
 ### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
 <br>
