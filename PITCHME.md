@@ -29,15 +29,21 @@ Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
 
 +++
 ### <span style="color:gray; font-size:0.6em;">[ VOSviewer ]</span>
+Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span>
+<span style="font-size:1em; color:gray">Cluster</span> |
+<span style="font-size:1em; color:gray">Heatmaps</span>
 
 +++
 ### <span style="color:gray; font-size:0.6em;">[ GitBook und GitPitch ]</span>
+Spannend: Produktive Szenarios für Text und Präsentationsdokumente (durch TUHH)
 
 +++
 ### <span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
+Noch spannender: Postkartenformat für allgemeine Weiterbildung.
 
 ---
 ## <span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
+QPL ist allgegenwärtig.
 
 ---
 
