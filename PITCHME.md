@@ -13,7 +13,7 @@
 
 ---
 # <span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
-
+![Image](./paper.jpg)
 +++
 ## <span style="color: #e49436">OER</span> sind ein ambivalentes Thema.
 ***
@@ -65,13 +65,19 @@ Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine
 ---
 # <span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
 ***
-
+![Image](./chaos.jpg)
 Was mir noch so auf- und eingefallen ist.
 
 +++
+## <span style="color:gray; font-size:0.6em;">[ Vages ]</span>
+***
+<br>
 ~QPL ist allgegenwärtig.~ Die <span style="color: #e49436">Blockchain</span> ist allgenenwärtig. <br><br> Zukunft ungewiss.
 
 +++
+## <span style="color:gray; font-size:0.6em;">[ Open Science ]</span>
+***
+<br>
 <span style="color: #e49436">Digital Methods</span> müssen vor dem Hintergrund von Open Science sowie forschungsethischer Standpunkte betrachtet werden.
 
 +++
