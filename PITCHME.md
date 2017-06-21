@@ -40,13 +40,14 @@ Partizipation im Etherpad war jedoch sehr gut (thx @m_andrasch) und erkenntnisre
 <br>
 Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br><br>
 <span style="font-size:1em; color:gray">Cluster</span> |
-<span style="font-size:1em; color:gray">Heatmaps</span><br>(thx @sozmethode)
+<span style="font-size:1em; color:gray">Heatmaps</span><br>
+####(thx @sozmethode)
 
 +++
 ## <span style="color:gray; font-size:0.6em;">[ GitBook und GitPitch ]</span>
 ***
 <br>
-Produktive Szenarios für Text und Präsentationsdokumente (thx @xldrkp von der TUHH).
+Produktive Szenarios für Text und Präsentationsdokumente (thx @xldrkp von der TUHH).<br><br>
 Plädoyer für das Experimentieren und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien.
 
 +++
