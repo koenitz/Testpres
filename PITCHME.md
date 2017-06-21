@@ -16,6 +16,7 @@
 
 +++
 ### <span style="color: #e49436">OER</span> sind ein ambivalentes Thema.
+***
 Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br>
 <span style="font-size:1em; color:gray">OER als Material</span> |
 <span style="font-size:1em; color:gray">OER als Mindset</span>
