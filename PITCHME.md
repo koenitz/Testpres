@@ -2,8 +2,6 @@
 <br>
 <span style="color:gray">Ein Kurzbericht</span>
 
-:smile:
-
 ---
 
 ## <span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
