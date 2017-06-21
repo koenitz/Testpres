@@ -1,3 +1,6 @@
+<!-- background: #f9fcff -->
+<!-- color: #8f767e -->
+<!-- font: helvetica -->
 #### <span style="font-family: brandon;"><i>MarkDown für alles</i></span>
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
