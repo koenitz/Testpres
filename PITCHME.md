@@ -1,18 +1,50 @@
-#### <span style="font-family: brandon;"><i>MarkDown für alles</i></span>
+#### JFMH 2017
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+<span style="color:gray">Ein Kurzbericht</span>
+
 :smile:
 
 ---
-<span style="color: #f2cf4a; font-family: brandon;">Welch inspirierende Worte!</span>
+
+<span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
+<br> 1. Erkenntnisse
+<br> 2. Tools
+<br> 3. Sonstiges
 <br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+### 1 <span style="color: #666666">Erkenntnisse</span>
+### <span class="fragment" data-fragment-index="1" data-autoslide="2000">2 <span style="color: #666666">Tools</span>
+### <span class="fragment" data-fragment-index="1" data-autoslide="2000">3 <span style="color: #666666">Sonstiges</span></li>
+<br>
+<span style="color: #f2cf4a; font-family: brandon;">Welch inspirierende Worte!</span>
 
 ---
+<span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
+
++++
+OER sind ein ambivalentes Thema
+
++++
+Flipped Classroom ist noch nicht so richtig angekommen
+
++++
+
+<span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
+
+---
+<span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
+
++++
+<span style="color:gray; font-size:0.6em;">[ VOSviewer ]</span>
+
++++
+<span style="color:gray; font-size:0.6em;">[ GitBook und GitPitch ]</span>
+
++++
+<span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
+
+---
+<span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
+
 <!-- .slide: data-autoslide="2000" -->
 
 ### No more <span style="color: #666666">Keynote.</span>
