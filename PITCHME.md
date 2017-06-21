@@ -1,9 +1,7 @@
 
 <!-- .slide: data-autoslide="10000" -->
 
-![Image](./assets/md/assets/gp-logo.png)
-
-#### Get the word out
+#### <span style="color: #f2cf4a; font-family: brandon;">MarkDown für alles</span>
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
 <br>
