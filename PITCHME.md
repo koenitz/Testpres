@@ -55,7 +55,7 @@ Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br>
 ***
 <br>
 Produktive Szenarios für Text und Präsentationsdokumente (thx @xldrkp von der TUHH).<br><br>
-<span style="color: #e49436">Plädoyer für das Experimentieren</span> und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien.
+<span style="color: #e49436">Plädoyer für das Experimentieren</span> und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien und Emergenz. [Link zur Keynote als Text](https://axel-duerkop.de/blog/2017/06/18/die-architektur-von-offenheit/).
 
 +++
 ## <span style="color:gray;"><span style="color: #e49436">Print</span> hat auch noch eine Zukunft</span>
