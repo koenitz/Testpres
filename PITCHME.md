@@ -1,6 +1,3 @@
-<!-- background: #f9fcff -->
-<!-- color: #8f767e -->
-<!-- font: helvetica -->
 #### <span style="font-family: brandon;"><i>MarkDown für alles</i></span>
 <br>
 <span style="color:gray">Markdown Presentations For Everyone</span>
@@ -10,9 +7,6 @@
 <span style="color:gray">GitHub, GitLab and Bitbucket</span>
 
 ---
-<!-- background: #6f6f6f -->
-<!-- color: #fff -->
-<!-- font: univers -->
 <span style="color: #f2cf4a; font-family: brandon;">Welch inspirierende Worte!</span>
 <span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
 
