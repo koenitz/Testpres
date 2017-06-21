@@ -6,7 +6,7 @@
 
 ---
 
-<span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
+## <span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
 
 <br>
 ### 1 <span style="color: #666666">Erkenntnisse</span>
@@ -14,39 +14,28 @@
 ### <span class="fragment" data-fragment-index="2">3 <span style="color: #666666">Sonstiges</span>.</li>
 
 ---
-<span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
+## <span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
 
 +++
-OER sind ein ambivalentes Thema
+### OER sind ein ambivalentes Thema
 
 +++
-Flipped Classroom ist noch nicht so richtig angekommen
-
-+++
-
-<span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
+### Flipped Classroom ist noch nicht so richtig angekommen
 
 ---
-<span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
+## <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
 
 +++
-<span style="color:gray; font-size:0.6em;">[ VOSviewer ]</span>
+### <span style="color:gray; font-size:0.6em;">[ VOSviewer ]</span>
 
 +++
-<span style="color:gray; font-size:0.6em;">[ GitBook und GitPitch ]</span>
+### <span style="color:gray; font-size:0.6em;">[ GitBook und GitPitch ]</span>
 
 +++
-<span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
+### <span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
 
 ---
-<span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
-
-<!-- .slide: data-autoslide="2000" -->
-
-### No more <span style="color: #666666">Keynote.</span>
-### <span class="fragment" data-fragment-index="1" data-autoslide="2000">No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### <span class="fragment" data-fragment-index="2" data-autoslide="3500">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
+## <span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
 
 ---
 
