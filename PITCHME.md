@@ -11,8 +11,7 @@
 <br>
 ### 1 <span style="color: #666666">Erkenntnisse</span>
 ### <span class="fragment" data-fragment-index="1">2 <span style="color: #666666">Tools</span>
-<br>
-### <span class="fragment" data-fragment-index="2">3 <span style="color: #e49436">Sonstiges</span>.</li>
+### <span class="fragment" data-fragment-index="2">3 <span style="color: #666666">Sonstiges</span>.</li>
 
 ---
 <span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
