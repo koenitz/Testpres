@@ -52,7 +52,7 @@ Plädoyer für das Experimentieren und Ausprobieren von GitLab neben "klassische
 +++
 ## <span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
 ***
-<br>
+Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine OER-Weiterbildung.
 ![Image](./oerpostkarten.jpg)
 Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine OER-Weiterbildung.
 
