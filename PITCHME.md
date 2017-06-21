@@ -1,6 +1,6 @@
 # <span style="color: #e49436">JFMH</span> 2017
 <br>
-<span style="color:gray">Eine Kurzdarstellung</span>
+<span style="color:gray">Eine indivduelle Kurzdarstellung von @koenitz</span>
 
 ---
 
