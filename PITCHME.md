@@ -72,7 +72,7 @@ Was mir noch so auf- und eingefallen ist.
 ## <span style="color:gray;">[ Vages ]</span>
 ***
 <br>
-~QPL ist allgegenwärtig.~ Die <span style="color: #e49436">Blockchain</span> ist allgenenwärtig. <br><br> Zukunft ungewiss.
+~QPL ist allgegenwärtig.~ <b>Die <span style="color: #e49436">Blockchain</span> ist allgegenwärtig.</b> <br><br> Zukunft ungewiss.
 
 +++
 ## <span style="color:gray;">[ Open Science ]</span>
