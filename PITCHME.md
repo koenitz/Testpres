@@ -10,8 +10,9 @@
 
 <br>
 ### 1 <span style="color: #666666">Erkenntnisse</span>
-### <span class="fragment" data-fragment-index="1">2 <span style="color: #666666">Tools</span>
-### <span class="fragment" data-fragment-index="1">3 <span style="color: #666666">Sonstiges</span></li>
+### <span class="fragment" data-fragment-index="1" data-autoslide="2000">2 <span style="color: #666666">Tools</span>
+<br>
+### <span class="fragment" data-fragment-index="2" data-autoslide="3500">3 <span style="color: #e49436">Sonstiges</span>.</li>
 <br>
 <span style="color: #f2cf4a; font-family: brandon;">Welch inspirierende Worte!</span>
 
