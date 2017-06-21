@@ -17,7 +17,10 @@
 ## <span style="color:gray; font-size:0.6em;">[ ERKENNTNISSE ]</span>
 
 +++
-### <span style="color: #e49436">OER</span> sind ein ambivalentes Thema
+### <span style="color: #e49436">OER</span> sind ein ambivalentes Thema.
+Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br>
+<span style="font-size:0.6em; color:gray">OER als Material</span> |
+<span style="font-size:0.6em; color:gray">OER als Mindset</span>
 
 +++
 ### <span style="color: #e49436">Flipped Classroom</span> ist noch nicht so richtig angekommen
