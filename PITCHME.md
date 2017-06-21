@@ -20,7 +20,8 @@
 <br>
 Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br><br>
 <span style="font-size:1em; color:gray">OER als Material</span> |
-<span style="font-size:1em; color:gray">OER als Mindset</span>
+<span style="font-size:1em; color:gray">OER als Mindset</span><br><br>
+(thx @mayrberger)
 
 +++
 ## <span style="color: #e49436">OEP</span> als diskursives Feld.
