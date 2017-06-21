@@ -29,7 +29,7 @@ Nur ein Bruchteil der TeilnehmerInnen hatten sich die Videos angeschaut.
 
 +++
 Partizipation im Etherpad war jedoch sehr gut (thx @m_andrasch) und erkenntnisreich.
-[Link](https://pad.hs-wismar.de/p/jfmh17)
+[Link zum Etherpad: ](https://pad.hs-wismar.de/p/jfmh17)
 
 ---
 # <span style="color:gray; font-size:0.6em;">[ TOOLS ]</span>
@@ -40,19 +40,21 @@ Partizipation im Etherpad war jedoch sehr gut (thx @m_andrasch) und erkenntnisre
 <br>
 Freies Tool zur <span style="color: #e49436">Visualisierung von Daten</span><br><br>
 <span style="font-size:1em; color:gray">Cluster</span> |
-<span style="font-size:1em; color:gray">Heatmaps</span>
+<span style="font-size:1em; color:gray">Heatmaps</span><br>(thx @sozmethode)
 
 +++
 ## <span style="color:gray; font-size:0.6em;">[ GitBook und GitPitch ]</span>
 ***
 <br>
-Spannend: Produktive Szenarios für Text und Präsentationsdokumente (durch TUHH)
+Produktive Szenarios für Text und Präsentationsdokumente (thx @xldrkp von der TUHH).
+Plädoyer für das Experimentieren und Ausprobieren von GitLab neben "klassischen" LMS-Anwendungen. Vorteil: Ermöglichung neuer mediendidaktischer Szenarien.
 
 +++
 ## <span style="color:gray; font-size:0.6em;">[ Print hat auch noch eine Zukunft ]</span>
 ***
 <br>
-Noch spannender: Postkartenformat für allgemeine Weiterbildung.
+![Image](./oerpostkarten.jpg)
+Uni Siegen: <span style="color: #e49436">Postkartenformat</span> für allgemeine OER-Weiterbildung.
 
 ---
 # <span style="color:gray; font-size:0.6em;">[ SONSTIGES ]</span>
