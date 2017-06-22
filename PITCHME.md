@@ -8,6 +8,8 @@ Das war btw. meine Ausgangslage:
 
 Insofern war ich gespannt, welche Impulse entstehen würden. Und ich wurde <span style="color: #e49436">positiv</span> überrascht.
 ---
+![Image](./Koenitz.JPG)
+---
 
 ## <span style="color:gray; font-size:0.6em;">[ AGENDA ]</span>
 
@@ -27,6 +29,17 @@ Debatte darum, ob OEP ein Teil von OER seien, oder etwas davon getrenntes.<br><b
 <span style="font-size:1em; color:gray">OER als Material</span> |
 <span style="font-size:1em; color:gray">OER als Mindset</span><br><br>
 (thx @mayrberger)
+
++++
+## <span style="color: #e49436">OER</span> als Strategie.
+***
+<br>
+In einem guten Vortrag legte David Eickhoff die Strategie der Uni Duisburg Essen dar. Er ist Teil des Kerres'schen LearningLabs. <br><br>
+<span style="font-size:1em; color:red">OER als Strategie</span> |
+<span style="font-size:1em; color:gray">OER als Material</span> |
+<span style="font-size:1em; color:gray">OER als Mindset</span><br><br>
++++
+![Image](./OER_Strategie.jpg)
 
 +++
 ## <span style="color: #e49436">OEP</span> als diskursives Feld.
